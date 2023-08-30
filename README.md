@@ -1,4 +1,4 @@
-#  Terraform and Ansible Traning
+#  Auto deploy Grafana and Promotheus using Jenkins - Terraform - Ansible 
 
 In this course we will learn how to use terraform and ansible and automate deployment process with jenkins.
 
